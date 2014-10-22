@@ -1,0 +1,6 @@
+.message { font-size: 12px }
+.teacher { font-style: italic }
+table {margin: auto; text-align: center}
+td {padding: 10px;}
+p,h3 {margin: auto; text-align: center}
+body {background: url("eagle.png") white center no-repeat fixed}
